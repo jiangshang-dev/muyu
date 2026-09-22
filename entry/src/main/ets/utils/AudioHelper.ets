@@ -18,8 +18,9 @@ export class SongItem {
 }
 
 export const BUDDHA_SONGS: SongItem[] = [
-  new SongItem('guanyin', '观世音菩萨在心中', 'song_guanyin.mp3'),
+  new SongItem('xinjing', '心经', 'xinjing.m4a'),
   new SongItem('dabei', '大悲咒', 'song_dabei.m4a'),
+  new SongItem('guanyin', '观世音菩萨在心中', 'song_guanyin.mp3'),
   new SongItem('lian', '愿做菩萨那朵莲', 'song_lian.mp3')
 ];
 
