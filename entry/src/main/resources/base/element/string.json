@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "静心木鱼"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "木鱼与佛歌"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "木鱼"
+    }
+  ]
+}
