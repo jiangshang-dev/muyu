@@ -5,13 +5,13 @@
         "name": "default",
         "type": "HarmonyOS",
         "material": {
-          "certpath": "/Users/xiaobai/.ohos/config/default_muyu_SLEdaEptxvXVNO2O3Q8kWlu8He-BgP6IQhatXgN8ZXo=.cer",
-          "keyAlias": "debugKey",
-          "keyPassword": "0000001BB95167C138CC3A2C844F5FE8C479D84DF4A4C563E6087236D8D692D09D3CA90DA6317C32BA6DE9",
-          "profile": "/Users/xiaobai/.ohos/config/default_muyu_SLEdaEptxvXVNO2O3Q8kWlu8He-BgP6IQhatXgN8ZXo=.p7b",
+          "storeFile": "/Users/xiaobai/Desktop/鸿蒙/木鱼app/muyu.p12",
+          "storePassword": "0000001E79086C645FF930893C48081FF319BBE73F77E4FC8FEE8923351833D58BED6544793E346D893A52AC3C02",
+          "keyAlias": "muyu",
+          "keyPassword": "0000001E4536B4979A177E283A80646FCA6E1283CD2DABCE3CF047D4D385331083AFDFE08A1534D9AA46BBC1E9CC",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "/Users/xiaobai/.ohos/config/default_muyu_SLEdaEptxvXVNO2O3Q8kWlu8He-BgP6IQhatXgN8ZXo=.p12",
-          "storePassword": "0000001B784D286A154B61BAF633226ADAE3B33683ED4AF240AECCBC5FA8237671B340F1325AD89A8F2421"
+          "profile": "/Users/xiaobai/Desktop/鸿蒙/木鱼app/muyuRelease.p7b",
+          "certpath": "/Users/xiaobai/Desktop/鸿蒙/木鱼app/muyu.cer"
         }
       }
     ],
